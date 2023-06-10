@@ -19,7 +19,4 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkDenAl&layout=compact)](https://github.com/OkDenAl/github-readme-stats)
 
